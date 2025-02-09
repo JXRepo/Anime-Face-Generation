@@ -1,4 +1,4 @@
-**GAN Anime Face Generator**
+# **GAN Anime Face Generator**
 
 This project implements a Generative Adversarial Network (GAN) to generate anime-style faces using TensorFlow.
 
