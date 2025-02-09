@@ -2,7 +2,7 @@
 
 This project implements a Generative Adversarial Network (GAN) to generate anime-style faces using TensorFlow.
 
-**Features**
+## **Features**
 
 • Uses a generator and discriminator network.
 
@@ -10,7 +10,7 @@ This project implements a Generative Adversarial Network (GAN) to generate anime
 
 • Outputs realistic anime-style images.
 
-**Usage**
+## **Usage**
 
 1. Install dependencies: pip install -r requirements.txt
 
@@ -20,7 +20,7 @@ This project implements a Generative Adversarial Network (GAN) to generate anime
 
 4. Generate images: Run python generate.py
 
-**Future Improvements**
+## **Future Improvements**
 
 • Enhance model architecture.
 
